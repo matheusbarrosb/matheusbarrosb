@@ -1,4 +1,1 @@
-- Greetings. I am currently a last-year undergraduate in Biology at the Federal University of Alagoas, Brazil. 
-I am mainly interested in fisheries sciences and how ecology may help us manage important natural resources
-
-
+- Greetings. I am currently a Marine Science MS student at the Dauphin Island Sea Lab, University of South Alabama, USA. My main research interests are on developing modelling approaches to inform management strategies of living resources
