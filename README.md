@@ -19,7 +19,7 @@
 - Major in Biology 
 - Learning advanced statistical modeling
 
-
+[Google Scholar Profile](/https://scholar.google.com/citations?user=m8i6hjgAAAAJ&hl=en)
 
 
 
@@ -32,4 +32,5 @@
 
 
 <!--END_SECTION:waka-->
+
 
