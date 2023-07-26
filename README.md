@@ -14,13 +14,12 @@
 
 - I am mostly interested in using varied quantitative tools to address fisheries and fish ecology questions
 - Rookie Bayesian statistician
-- Always open to communication -> [Email me!](/matheus.barrosteu@gmail.com)
+- Always open to communication -> <a href="https://matheus.barrosteu@gmail.com/" target="_blank">Email me!</a> 
 - Currently a MS student at the School of Marine and Environmental Sciences at South Alabama
 - Major in Biology 
 - Learning advanced statistical modeling
 
-[Google Scholar Profile](/https://scholar.google.com/citations?user=m8i6hjgAAAAJ&hl=en)
-
+<a href="https://scholar.google.com/citations?user=m8i6hjgAAAAJ&hl=en/" target="_blank">Google Scholar Profile</a>
 
 
 **Languages and Tools:**  
