@@ -2,6 +2,8 @@
 
 ---
 
+![Matheus](./matheus.jpg)
+
 ### Bio
 I am a quantitative fisheries scientist focusing on ecological modelling, fisheries stock assessment, management strategy evaluation, and bayesian statistics. Currently, I’m a PhD research fellow at the School of Aquatic and Fishery Sciences, UW Seattle, where I strive to improve Pacific herring management using simulation modelling. My research is guided by the belief that a sustainable future can be achieved by the correct, coordinated, and evidence-based assessment and management of our renewable and productive fisheries resources.
 
