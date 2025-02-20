@@ -25,6 +25,5 @@ I am a quantitative fisheries scientist focusing on ecological modelling, fisher
 
 ### Links
 - [Google Scholar](https://scholar.google.com/citations?user=m8i6hjgAAAAJ&hl=pt-BR)
-- [GitHub](https://github.com/matheusbarrosb)
 - [Email](mailto:mdbarros@uw.edu)
 - [Research Gate](https://www.researchgate.net/profile/Matheus-De-Barros-3?ev=hdr_xprf)
