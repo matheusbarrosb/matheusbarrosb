@@ -14,15 +14,6 @@ I am a quantitative fisheries scientist focusing on ecological modelling, fisher
 
 **[Ongoing] PhD in Aquatic and Fishery Sciences** | University of Washington, United States
 
-### Experience
-**Environmental Consultant** | Brazilian Ministry of the Environment | June 2024 - Present
-
-**Environmental Consultant** | Alagoas State Secretary of Fisheries | August 2024 - Present
-
-**Undergraduate Research Fellow** | Universidade Federal de Alagoas (UFAL), Brazil | September 2018 - February 2022
-
-**Graduate Research Assistant** | Stokes School of Marine and Environmental Sciences, University of South Alabama, United States | May 2022 - May 2024
-
 ### Links
 - [Google Scholar](https://scholar.google.com/citations?user=m8i6hjgAAAAJ&hl=pt-BR)
 - [Email](mailto:mdbarros@uw.edu)
